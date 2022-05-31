@@ -12,3 +12,7 @@
 - Look more into regions, seasons, etc
 - Check with the dealers about what data can be collected, like engine type, color of seats, color of windows, how quick the car can go from 0 km/h to 100 km/h
 - Find out how fast will the car depreciate, and what determines the depreciation rate
+
+
+Link to the Jupyter Notebook:
+https://github.com/crystalsw/Assignment-11.1/blob/master/prompt_II_Sze.ipynb
